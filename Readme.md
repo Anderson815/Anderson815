@@ -2,6 +2,8 @@
   <h1>Olá sou o Andeson</h1>
   <p>Sou um entusiasta e apaixonados por programação, focado em resolver problemas através de códigos.</p>
 
+---
+
   <h2>Back-End</h2>
   <p>
     <img src="Logos-Conhecimentos/Java.png" alt="Java" title="Java" height="62px" width="62px">
@@ -13,12 +15,16 @@
     <img src="Logos-Conhecimentos/Postman.png" alt="Postman" title="Postman">
   </p>
 
+---
+
   <h2>Front-End</h2>
   <p>
     <img src="Logos-Conhecimentos/HTML.png" alt="HTML" title="HTML" height="57px" width="57px">
     <img src="Logos-Conhecimentos/CSS.png" alt="CSS" title="CSS" height="57px" width="57px">
     <img src="Logos-Conhecimentos/JS.png" alt="JS" title="JS" height="57px" width="57px">
   </p>
+
+---
 
   <h2>IDEs</h2>
   <p>
@@ -28,6 +34,8 @@
     <img src="Logos-Conhecimentos/VSCode.png" alt="VSCode" title="VSCode">
   </p>
 
+---
+
   <h2>Outros</h2>
   <p>
     <img src="Logos-Conhecimentos/Git.png" alt="Git" title="Git" height="60px" width="60px">
@@ -35,6 +43,9 @@
     <img src="Logos-Conhecimentos/Heroku.png" alt="Heroku" title="Heroku">
     <img src="Logos-Conhecimentos/Terminal.png" alt="Terminal" title="Terminal">
   </p>
+  
+---
+  
 </div>
 
 <h2 align="center">Curiosidades</h2>
