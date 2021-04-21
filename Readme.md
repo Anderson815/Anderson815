@@ -4,14 +4,14 @@
 
   <h2>Linguagens de Programação e banco de dados</h2>
   <p>
-    <img src="Logos-Conhecimentos/Java.png" alt="Java" title="Java">
+    <img src="Logos-Conhecimentos/Java.png" alt="Java" title="Java" height="62px" width="62px">
     <img src="Logos-Conhecimentos/MySQL.png" alt="MySQL" title="MySQL">
     <img src="Logos-Conhecimentos/PostgreSQL.png" alt="PostgreSQL" title="PostgreSQL">
   </p>
 
   <h2>Back-End</h2>
   <p>
-    <img src="Logos-Conhecimentos/Spring Boot.png" alt="Spring" title="Spring">
+    <img src="Logos-Conhecimentos/Spring Boot.png" alt="Spring" title="Spring" height="62px" width="62px">
     <img src="Logos-Conhecimentos/Maven.png" alt="Maven" title="Maven">
     <img src="Logos-Conhecimentos/Junit.png" alt="Junit" title="Junit">
     <img src="Logos-Conhecimentos/Postman.png" alt="Postman" title="Postman">
@@ -19,9 +19,9 @@
 
   <h2>Front-End</h2>
   <p>
-    <img src="Logos-Conhecimentos/HTML.png" alt="HTML" title="HTML">
-    <img src="Logos-Conhecimentos/CSS.png" alt="CSS" title="CSS">
-    <img src="Logos-Conhecimentos/JS.png" alt="JS" title="JS">
+    <img src="Logos-Conhecimentos/HTML.png" alt="HTML" title="HTML" height="57px" width="57px">
+    <img src="Logos-Conhecimentos/CSS.png" alt="CSS" title="CSS" height="57px" width="57px">
+    <img src="Logos-Conhecimentos/JS.png" alt="JS" title="JS" height="57px" width="57px">
   </p>
 
   <h2>IDEs</h2>
@@ -34,8 +34,8 @@
 
   <h2>Outros</h2>
   <p>
-    <img src="Logos-Conhecimentos/Git.png" alt="Git" title="Git">
-    <img src="Logos-Conhecimentos/GitHub.png" alt="GitHub" title="GitHub">
+    <img src="Logos-Conhecimentos/Git.png" alt="Git" title="Git" height="60px" width="60px">
+    <img src="Logos-Conhecimentos/GitHub.png" alt="GitHub" title="GitHub" height="57px" width="57px">
     <img src="Logos-Conhecimentos/Heroku.png" alt="Heroku" title="Heroku">
     <img src="Logos-Conhecimentos/Terminal.png" alt="Terminal" title="Terminal">
   </p>
