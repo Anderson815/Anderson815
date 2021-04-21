@@ -2,15 +2,11 @@
   <h1>Olá sou o Andeson</h1>
   <p>Sou um entusiasta e apaixonados por programação, focado em resolver problemas através de códigos.</p>
 
-  <h2>Linguagens de Programação e banco de dados</h2>
+  <h2>Back-End</h2>
   <p>
     <img src="Logos-Conhecimentos/Java.png" alt="Java" title="Java" height="62px" width="62px">
     <img src="Logos-Conhecimentos/MySQL.png" alt="MySQL" title="MySQL">
     <img src="Logos-Conhecimentos/PostgreSQL.png" alt="PostgreSQL" title="PostgreSQL">
-  </p>
-
-  <h2>Back-End</h2>
-  <p>
     <img src="Logos-Conhecimentos/Spring Boot.png" alt="Spring" title="Spring" height="62px" width="62px">
     <img src="Logos-Conhecimentos/Maven.png" alt="Maven" title="Maven">
     <img src="Logos-Conhecimentos/Junit.png" alt="Junit" title="Junit">
@@ -41,7 +37,7 @@
   </p>
 </div>
 
-<h2>Curiosidades sobre mim</h2>
+<h2 align="center">Curiosidades</h2>
 <ul>
   <li>:video_game: Gosto de jogar um lolzinho no final de semana</li>
   <li>:guitar: Curto rock clássico, mas também gosto de outros estilos de música</li>
