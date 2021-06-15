@@ -22,6 +22,8 @@
     <img src="Logos-Conhecimentos/HTML.png" alt="HTML" title="HTML" height="57px" width="57px">
     <img src="Logos-Conhecimentos/CSS.png" alt="CSS" title="CSS" height="57px" width="57px">
     <img src="Logos-Conhecimentos/JS.png" alt="JS" title="JS" height="57px" width="57px">
+    <img src="Logos-Conhecimentos/Bootstrap.png" alt="Bootstrap" title="Bootstrap" height="57px" width="57px">
+    <img src="Logos-Conhecimentos/Angular.png" alt="Angular" title="Angular" height="57px" width="57px">
   </p>
 
 ---
@@ -42,6 +44,7 @@
     <img src="Logos-Conhecimentos/GitHub.png" alt="GitHub" title="GitHub" height="57px" width="57px">
     <img src="Logos-Conhecimentos/Heroku.png" alt="Heroku" title="Heroku">
     <img src="Logos-Conhecimentos/Terminal.png" alt="Terminal" title="Terminal">
+    <img src="Logos-Conhecimentos/Trello.png" alt="Trello" title="Trello" height="60px" width="60px">
   </p>
   
 ---
