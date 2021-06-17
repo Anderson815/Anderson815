@@ -1,7 +1,10 @@
 <div align="center">
   <h1>Olá sou o Andeson</h1>
-  <p>Sou um entusiasta e apaixonados por programação, focado em resolver problemas através de códigos.</p>
-
+  <a href="https://www.linkedin.com/in/anderson-correia/">Linkedin</a> • 
+  <a href="https://anderson815.github.io/Portfolio/">Portfólio</a>
+  <p>Sou um entusiasta e apaixonados por programação, focado em resolver problemas através de códigos. Links uteis:</p>
+  
+  
 ---
 
   <h2>Back-End</h2>
