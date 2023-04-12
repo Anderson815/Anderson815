@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá sou o Andeson</h1>
+  <h1>Olá sou o Anderson</h1>
   <a href="https://www.linkedin.com/in/anderson-correia/">Linkedin</a> • 
   <a href="https://anderson815.github.io/Portfolio/">Portfólio</a>
   <p>Sou um entusiasta e apaixonados por programação, focado em resolver problemas através de códigos. Links uteis:</p>
